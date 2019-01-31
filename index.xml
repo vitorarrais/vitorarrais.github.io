@@ -6,27 +6,19 @@
     <description>Recent content on Vitor Arrais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Jan 2019 17:01:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 21:08:29 +0100</lastBuildDate>
     
 	<atom:link href="https://vitorarrais.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://vitorarrais.github.io/about/</link>
-      <pubDate>Sun, 27 Jan 2019 17:01:15 +0100</pubDate>
+      <pubDate>Wed, 30 Jan 2019 21:08:29 +0100</pubDate>
       
       <guid>https://vitorarrais.github.io/about/</guid>
-      <description>Vitor&amp;rsquo;s personal webpage</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://vitorarrais.github.io/posts/hello-world/</link>
-      <pubDate>Sun, 27 Jan 2019 17:00:53 +0100</pubDate>
-      
-      <guid>https://vitorarrais.github.io/posts/hello-world/</guid>
-      <description>Hello world!</description>
+      <description>I am a Software Engineer graduated at State University of Campinas with Bachelor&amp;rsquo;s of Science in Computer Engineering.
+My interests are Web and Mobile development for large scale applications. I am also interested in Machine Learning for solving real world problems.</description>
     </item>
     
   </channel>
