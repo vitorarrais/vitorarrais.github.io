@@ -6,10 +6,20 @@
     <description>Recent content on Vitor Arrais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Feb 2019 01:18:55 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 15:40:53 +0100</lastBuildDate>
     
 	<atom:link href="https://vitorarrais.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Music streaming app powered by AI (Part 2)</title>
+      <link>https://vitorarrais.github.io/posts/music_generated_by_ai_part2/</link>
+      <pubDate>Tue, 05 Feb 2019 15:40:53 +0100</pubDate>
+      
+      <guid>https://vitorarrais.github.io/posts/music_generated_by_ai_part2/</guid>
+      <description>In this second part of the series I will walk through on how Magenta works and How I tweaked it to adapt to my application needs.
+Magenta core Magenta is a library built on top of Tensorflow that helps you generate music using machine learning. It has in its core a music representation abstraction much like MIDI that they call NoteSequence. Basically it is a sequence of events in which each event is a well defined note.</description>
+    </item>
     
     <item>
       <title>Music streaming app powered by AI (Part 1)</title>
